@@ -53,7 +53,7 @@ public class BalancePackManager {
         NONE,
         HANDGUN,
         LONG_GUN,
-        RIFLE,
+        RIFLES,
         SHOTGUN,
         CARBINE,
         ASSAULT_RIFLE,
